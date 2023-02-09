@@ -17,7 +17,8 @@
 5. scDART: integrating unmatched scRNA-seq and scATAC-seq data and learning cross-modality relationship simultaneously. Genome Biology 2022. [[paper](https://link.springer.com/article/10.1186/s13059-022-02706-x)] [[code](https://github.com/PeterZZQ/scDART)]
 6. A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data. Genome Biology 2022. [[paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02595-6)] [[code](https://github.com/bm2-lab/scMVP)]
 7. Multi-omics single-cell data integration and regulatory inference with graph-linked embedding. Nature Biotechnology 2022. [[paper](https://www.nature.com/articles/s41587-022-01284-4)] [[code](https://github.com/gao-lab/GLUE)]
-
+8. Multimodal learning with graphs. arxiv 2022. [[paper](https://arxiv.org/pdf/2209.03299.pdf)]
+9. Graph representation learning in biomedicine and healthcare. Nature Biomedical Engineering 2022. [[paper](https://www.nature.com/articles/s41551-022-00942-x)]
 
 
 ### Dataset
